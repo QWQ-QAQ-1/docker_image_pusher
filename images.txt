@@ -1,7 +1,17 @@
 nginx
 mysql
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 xiaoyaliu/alist
+docker
+docker-ce-20.10.24-3.el9
+docker-ce-cli-20.10.24-3.el9
+containerd.io
+kubectl-1.28.2
+kubelet-1.28.2
+kubeadm-1.28.2
+cri-tools-1.26.0-0.x86_64
+socat-1.7.4.1-6.el9.x86_64
+kubernetes-cni-1.2.0-0.x86_64
