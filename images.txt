@@ -5,10 +5,6 @@ mysql
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-docker
-docker-ce-20.10.24-3.el9
-docker-ce-cli-20.10.24-3.el9
-containerd.io
 kubectl-1.28.2
 kubelet-1.28.2
 kubeadm-1.28.2
