@@ -3,10 +3,10 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #centos7.5
-docker
-php
-mariadb
-consul
+#docker
+#php
+#mariadb
+#consul
 haproxy
 rabbitmq
 wordpress
