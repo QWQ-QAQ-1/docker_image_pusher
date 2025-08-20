@@ -25,7 +25,7 @@
 #zookeeper
 #mono
 #opensuse
-oraclelinux
+#oraclelinux
 mongo-express
 gcc
 rust
