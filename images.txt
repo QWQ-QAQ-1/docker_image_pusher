@@ -13,10 +13,10 @@
 #python
 #debian
 #java
-nextcloud
-tomcat
-maven
-jenkins
+#nextcloud
+#tomcat
+#maven
+#jenkins
 ghost
 cassandra
 vault
