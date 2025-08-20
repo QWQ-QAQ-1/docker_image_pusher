@@ -13,7 +13,7 @@ postgres
 memcached
 registry
 hello-world
-centos
+centos7
 docker
 php
 mariadb
