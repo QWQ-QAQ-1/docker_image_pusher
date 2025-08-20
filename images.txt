@@ -20,11 +20,11 @@
 #ghost
 #cassandra
 #vault
-fedora
-perl
-zookeeper
-mono
-opensuse
+#fedora
+#perl
+#zookeeper
+#mono
+#opensuse
 oraclelinux
 mongo-express
 gcc
