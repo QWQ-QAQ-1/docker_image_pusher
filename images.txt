@@ -17,9 +17,9 @@
 #tomcat
 #maven
 #jenkins
-ghost
-cassandra
-vault
+#ghost
+#cassandra
+#vault
 fedora
 perl
 zookeeper
