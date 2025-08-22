@@ -26,7 +26,8 @@
 #mono
 #opensuse
 #oraclelinux
-mongo-express
-gcc
-rust
-cirros
+#mongo-express
+#gcc
+#rust
+#cirros
+postgresql
