@@ -31,4 +31,4 @@
 #rust
 #cirros
 #postgresql
-oracle
+hjdyzy/oracle:19.3.0-ee
