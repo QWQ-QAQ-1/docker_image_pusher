@@ -30,4 +30,5 @@
 #gcc
 #rust
 #cirros
-postgresql
+#postgresql
+oracle_11g
