@@ -31,4 +31,4 @@
 #rust
 #cirros
 #postgresql
-oracle_11g
+oracle
